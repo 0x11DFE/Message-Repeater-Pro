@@ -17,7 +17,7 @@ An advanced plugin for extraGram clients to automate sending repetitive messages
 
 ## 📸 Preview
 
-![Plugin Preview](https://user-images.githubusercontent.com/10112455/109221598-176b5f00-77e2-11eb-9493-35392d472448.png)
+![Plugin Preview](https://github.com/0x11DFE/Message-Repeater-Pro/raw/refs/heads/main/repeater_pro_preview.gif)
 
 
 ## ✨ Features
